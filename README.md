@@ -11,6 +11,6 @@
 
 # I have uploaded files for 1 dataset - Leukemia
 # i) to discover patterns
-# ii) to rank genes using IG,MI,Pearson and Relief for EO and PP patterns
+# ii) to rank genes using IG,MI,Pearson and Relief for EO and PO patterns
 # iii) to run the top-ranked genes using KNN, NB and SVM
 # sAME coding can be repeated for all the other datasets
